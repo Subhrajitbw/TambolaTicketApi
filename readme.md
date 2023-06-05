@@ -22,7 +22,7 @@ The Tambola Ticket Generation project is a web application that allows users to 
 - Postman
 
 ## Installation
-1. Clone the project repository from [GitHub](https://github.com/your-repo-link).
+1. Clone the project repository from [GitHub]([https://github.com/your-repo-link](https://github.com/Subhrajitbw/TambolaTicketApi)).
 2. Install Node.js, MongoDB is already Connected to Personal Cluster.
 3. Navigate to the project directory in the terminal.
 4. Run the command `npm install` to install the project dependencies.
